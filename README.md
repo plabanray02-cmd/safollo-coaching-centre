@@ -1,4 +1,4 @@
-# safollo-coaching-centre
+# safollo
 <!DOCTYPE html>
 <html lang="en">
 <head>
